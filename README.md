@@ -1,2 +1,2 @@
 # Py_OsuAi
-An object detection artificial intelligence that can help users to aim with the circle in "osu!".
+An object detection artificial intelligence that is dedicated to helping users to aim with the circle in "osu!".
