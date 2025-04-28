@@ -73,6 +73,7 @@ To contribute:
 5. Open a Pull Request
 
 Please ensure your code follows the project's coding standards.
+
 ---
 ## License
 
