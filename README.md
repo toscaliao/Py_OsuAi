@@ -73,9 +73,9 @@ To contribute:
 Please ensure your code follows the project's coding standards.
 
 ## License
-```
+
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for more details.
-```
+
 
 ---
