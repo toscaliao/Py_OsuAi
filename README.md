@@ -5,7 +5,7 @@ An AI tool designed to play Osu! automatically, simulating human-like clicking a
 
 ## Introduction
 
-**Py_OsuAi** is a Python-based automation script for Osu!, featuring a customizable auto-clicker and cursor movement system.  
+`Py_OsuAi` is a Python-based automation script for Osu!, featuring a customizable auto-clicker and cursor movement system.  
 It is intended for educational purposes, to demonstrate basic computer vision, automation, and input simulation techniques.
 
 > ⚠️ Disclaimer: This project is for learning and research only.  
