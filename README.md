@@ -42,6 +42,7 @@ python main.py
 
 You can customize parameters such as click timing, cursor speed, and precision in the configuration files.  
 Please refer to the `examples/` folder for detailed usage examples.
+
 ---
 ## Project Structure
 
