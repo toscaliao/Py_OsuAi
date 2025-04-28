@@ -22,7 +22,7 @@ It is intended for educational purposes, to demonstrate basic computer vision, a
 ## Installation
 
 Clone the repository:
-
+```
 ```bash
 git clone https://github.com/toscaliao/Py_OsuAi.git
 cd Py_OsuAi
