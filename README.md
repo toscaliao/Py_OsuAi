@@ -50,11 +50,9 @@ Please refer to the `examples/` folder for detailed usage examples.
 ```
 Py_OsuAi/
 ├── core/                # Core modules for clicking and movement
-├── examples/            # Example usage scripts
-├── data/                # Optional data files (if needed)
-├── utils/               # Utility functions
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies
+├── PyOsuAI_project.pdf  # record archive
 └── main.py              # Entry point script
 ```
 
