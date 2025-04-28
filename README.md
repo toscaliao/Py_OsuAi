@@ -48,10 +48,10 @@ Please refer to the `examples/` folder for detailed usage examples.
 ```
 Py_OsuAi/
 ├── Osu_project/         # All things included
-    ├── Python_code/     # Codes & Scripts
-    ├── best_pt/         # machine learning models
-    ├── test_png/        # image(s) for script
-    └── yolov8n.pt       # Built-in model
+|   ├── Python_code/     # Codes & Scripts
+|   ├── best_pt/         # machine learning models
+|   ├── test_png/        # image(s) for script
+|   └── yolov8n.pt       # Built-in model
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies
 ├── PyOsuAI_project.pdf  # Record program development records
