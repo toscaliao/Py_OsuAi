@@ -1,4 +1,4 @@
-## Py_OsuAi
+# Py_OsuAi
 An AI tool designed to play Osu! automatically, simulating human-like clicking and cursor movement.
 
 ---
