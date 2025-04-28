@@ -12,7 +12,7 @@ It is intended for educational purposes, to demonstrate basic computer vision, a
 ## Features
 
 - Simulated human-like auto-clicking
-- Smooth cursor movement based on timing points
+- Smooth cursor movement (perhaps) based on timing points
 - Adjustable speed and delay settings
 - Support for reading Osu! beatmap files
 - Modular and extensible code structure
