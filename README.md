@@ -56,7 +56,7 @@ Py_OsuAi/
 |   └── yolov8n.pt       # Built-in model
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies
-├── PyOsuAI_project.pdf  # Record program development records
+└── PyOsuAI_project.pdf  # Record program development records
 
 ```
 ---
