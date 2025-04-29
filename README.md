@@ -50,7 +50,7 @@ You can customize parameters such as click timing, cursor speed, and precision i
 Py_OsuAi/
 ├── Osu_project/         # All things included
 |   ├── Python_code/     # Codes & Scripts
-|.  |   └── main.py      # Main script
+|   |   └── main.py      # Main script
 |   ├── best_pt/         # machine learning models
 |   ├── test_png/        # image(s) for script
 |   └── yolov8n.pt       # Built-in model
