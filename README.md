@@ -38,11 +38,10 @@ pip install -r requirements.txt
 Run the main script:
 
 ```bash
-python main.py
+python ./Osu_project/Python_code/main.py
 ```
 
 You can customize parameters such as click timing, cursor speed, and precision in the configuration files.  
-Please refer to the `examples/` folder for detailed usage examples.
 
 ---
 ## Project Structure
@@ -51,13 +50,14 @@ Please refer to the `examples/` folder for detailed usage examples.
 Py_OsuAi/
 ├── Osu_project/         # All things included
 |   ├── Python_code/     # Codes & Scripts
+|.  |   └── main.py      # Main script
 |   ├── best_pt/         # machine learning models
 |   ├── test_png/        # image(s) for script
 |   └── yolov8n.pt       # Built-in model
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies
 ├── PyOsuAI_project.pdf  # Record program development records
-└── main.py              # Entry point script
+
 ```
 ---
 ## Contribution
